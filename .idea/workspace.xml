@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad838f38-be3b-4db3-9726-aa31d2d295b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
+      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,14 +67,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4212">
-              <caret line="324" column="12" lean-forward="false" selection-start-line="311" selection-start-column="8" selection-end-line="324" selection-end-column="12" />
+            <state relative-caret-position="18">
+              <caret line="301" column="45" lean-forward="false" selection-start-line="301" selection-start-column="45" selection-end-line="301" selection-end-column="45" />
               <folding>
                 <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#10108#10575#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -97,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
@@ -188,7 +186,6 @@
         <option value="$PROJECT_DIR$/schedule-tab.html" />
         <option value="$PROJECT_DIR$/organisers.html" />
         <option value="$PROJECT_DIR$/schedule.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/schedule-list.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/tickets.html" />
@@ -198,6 +195,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/sponsors.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -291,12 +289,12 @@
       <workItem from="1529496735897" duration="8947000" />
       <workItem from="1529584022609" duration="12619000" />
       <workItem from="1529600290078" duration="4825000" />
-      <workItem from="1529673696942" duration="10158000" />
+      <workItem from="1529673696942" duration="10560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37783000" />
+    <option name="totallyTimeSpent" value="38185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="616" extended-state="6" />
@@ -391,7 +389,6 @@
           <caret line="324" column="12" lean-forward="false" selection-start-line="311" selection-start-column="8" selection-end-line="324" selection-end-column="12" />
           <folding>
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10108#10575#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -502,7 +499,6 @@
           <caret line="324" column="12" lean-forward="true" selection-start-line="311" selection-start-column="8" selection-end-line="324" selection-end-column="12" />
           <folding>
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10108#10575#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -687,28 +683,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4212">
-          <caret line="324" column="12" lean-forward="false" selection-start-line="311" selection-start-column="8" selection-end-line="324" selection-end-column="12" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#10108#10575#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schedule-list.html" />
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/organisers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -816,6 +791,26 @@
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#30289#30294#0" expanded="true" />
             <element signature="n#div#0;n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="301" column="45" lean-forward="false" selection-start-line="301" selection-start-column="45" selection-end-line="301" selection-end-column="45" />
+          <folding>
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
