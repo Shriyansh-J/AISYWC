@@ -95,7 +95,7 @@
 								<li class="active"><a href="contact.html">Contact</a></li>
 
 								<li class="header-ticket">
-									<a class="ticket-btn" href="tickets.html">Tickets</a>
+									<a class="ticket-btn" href="register.html">Register</a>
 								</li>
 
 							</ul><!--/ Nav ul end -->
@@ -123,6 +123,11 @@
 
 	<section id="main-container" class="main-container">
 		<div class="container">
+            <div class="row text-center">
+                <span class="icon-wrap"><i class="fa fa-map"></i></span>
+                <h2 class="section-title">Conference Location</h2>
+                <p class="section-sub-title">A short guide to Eventime venue and places to stay</p>
+            </div>
 
 			<div id="map" class="map"></div>
 
@@ -145,7 +150,11 @@
 								<i class="fa fa-map">&nbsp;</i>
 								<div class="contact-info-box-content">
 									<h4>Office</h4>
-									<p>Eventime HQ, 1638 North Street Charlottesville, NY 22903</p>
+                                    <p><b>IEEE Bagalore Section</b><br>
+                                        No-26/1, 5th Floor, WTC-Brigade,<br>
+                                        Dr. Rajkumar Road, Malleshwaram,<br>
+                                        Bangalore-560055, Karnataka, India
+                                    </p>
 								</div>
 							</div>
 
@@ -153,15 +162,8 @@
 								<i class="fa fa-envelope">&nbsp;</i>
 								<div class="contact-info-box-content">
 									<h4>Email</h4>
-									<p>query@eventime.com.us</p>
-								</div>
-							</div>
-
-							<div class="contact-info-box">
-								<i class="fa fa-phone-square">&nbsp;</i>
-								<div class="contact-info-box-content">
-									<h4>Phone</h4>
-									<p>+173-480-8973</p>
+									<p>mishra_puneet@ieee.org</p>
+									<p>Ankita.ks@ieee.org</p>
 								</div>
 							</div>
 
@@ -177,45 +179,35 @@
 		<footer id="footer" class="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-6">
 						<div class="action-box text-center">
 						<span class="action-box-icon">
 							<i class="fa fa-envelope"></i>
 						</span>
 							<div class="action-box-content">
 								<h3>General Queries</h3>
-								<p class="action-box-text">contact-query@evntime.co.us</p>
+								<p class="action-box-text">mishra_puneet@ieee.org</p>
+								<p class="action-box-text">Ankita.ks@ieee.org</p>
 							</div>
 						</div><!-- Action box 1 end -->
 					</div><!-- Col 1 end -->
 
-					<div class="col-md-4">
+					<div class="col-md-6">
 						<div class="action-box text-center">
 						<span class="action-box-icon">
 							<i class="fa fa-ticket"></i>
 						</span>
 							<div class="action-box-content">
 								<h3>Ticket Queries</h3>
-								<p class="action-box-text">support-ticket@evntime.co.us</p>
+								<p class="action-box-text">mishra_puneet@ieee.org</p>
+								<p class="action-box-text">Ankita.ks@ieee.org</p>
 							</div>
 						</div><!-- Action box 2 end -->
 					</div><!-- Col 2 end -->
 
-					<div class="col-md-4">
-						<div class="action-box text-center">
-						<span class="action-box-icon">
-							<i class="fa fa-phone"></i>
-						</span>
-							<div class="action-box-content">
-								<h3>Event Organiser</h3>
-								<p class="action-box-text">+78(35) 7866 534</p>
-							</div>
-						</div><!-- Action box 3 end -->
-					</div><!-- Col 3 end -->
-
 				</div><!-- Row 1 end -->
 
-				<div class="newsletter-form clearfix"></div>
+				<br><br>
 
 			</div><!-- Container 1 end -->
 
@@ -225,11 +217,9 @@
 						<div class="col-md-12">
 							<div class="footer-social">
 								<ul>
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="https://facebook.com/IEEEBangaloreSection"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/IEEEorg"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://linkedin.com/company/ieee-bangalore-section"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div><!-- Footer social end -->
 
@@ -278,20 +268,20 @@
 
 		/* Google Map */
 
-		$(function () {
-	       $('#map')
-	         .gmap3({
-	           address:"1137/9C, 4th Main 12th Cross Rd, Vidayaranya Puram, Mysuru, Karnataka 570008, India",
-	           zoom: 13,
-	           center:[12.28402212,76.64127991],
-	           mapTypeId : google.maps.MapTypeId.ROADMAP,
-	           scrollwheel: false
-	         })
-	         .marker([
-		        {position:[12.28402212,76.64127991]},
-		        {icon: "http://maps.google.com/mapfiles/marker_grey.png"}
-		      ])
-	     });
+        $(function () {
+            $('#map')
+                .gmap3({
+                    address:"#127-128, Mysore - Bannur Road, Alanahally, Mysuru, Karnataka 570028",
+                    zoom: 13,
+                    center:[12.3039593,76.7114517],
+                    mapTypeId : google.maps.MapTypeId.ROADMAP,
+                    scrollwheel: false
+                })
+                .marker([
+                    {position:[12.3039593,76.7114517]},
+                    {icon: "http://maps.google.com/mapfiles/marker_grey.png"}
+                ])
+        });
 
 	</script>
 

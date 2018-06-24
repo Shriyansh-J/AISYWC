@@ -2073,6 +2073,11 @@ ul.navbar-nav > li.header-ticket:hover > a:after{
    text-align: center;
 }
 
+.ts-pricing-price1{
+	font-size: 40px;
+   text-align: center;
+}
+
 .ts-pricing-price .currency{
 	position: absolute;
    font-size: 18px;
@@ -2080,7 +2085,20 @@ ul.navbar-nav > li.header-ticket:hover > a:after{
    left: -12px;
 }
 
+.ts-pricing-price1 .currency{
+	position: relative;
+   font-size: 22px;
+   top: -12px;
+   left: -4px;
+}
+
 .ts-pricing-price > small{
+	 font-size: 16px;
+	 line-height: 16px;
+	 display: block;
+}
+
+.ts-pricing-price1 > small{
 	 font-size: 16px;
 	 line-height: 16px;
 	 display: block;
