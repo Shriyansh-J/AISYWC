@@ -1956,7 +1956,7 @@ ul.navbar-nav > li.header-ticket:hover > a:after{
 }
 
 .sponsor-title{
-	 border-bottom: 1px solid #dadada;
+	 /*border-bottom: 1px solid #dadada;*/
 	 padding-bottom: 20px;
 	 max-width: 750px;
 	 margin:0 auto;
