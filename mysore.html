@@ -40,15 +40,20 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122245081-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122245081-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'UA-122245081-1');
-</script></head>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-122245081-1');
+    </script>
+</head>
 
 <body>
 
@@ -82,7 +87,8 @@
                             <li><a href="index.html">Home</a></li>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Program<i class="fa fa-angle-down"></i></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Program<i
+                                        class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="schedule.html">Schedule</a></li>
                                     <li><a href="speakers.html">Speakers</a></li>
@@ -91,7 +97,8 @@
                             </li>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <i class="fa fa-angle-down"></i></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <i
+                                        class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="about.html">About AISYWC</a></li>
                                     <li><a href="sponsors.html">Sponsors &amp; Partners</a></li>
@@ -100,7 +107,8 @@
                             </li>
 
                             <li class="dropdown active">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue <i class="fa fa-angle-down"></i></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue <i
+                                        class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="venue.html">Host Institute</a></li>
                                     <li class="active"><a href="mysore.html">About Mysore</a></li>
@@ -147,23 +155,83 @@
             </div><!--/ Title row end -->
 
             <div class="row">
-                <div class="col-xs-12 col-md-12">
-                    <img style="width: 100%" src="images/Mysore_Palace.jpg">
-                </div>
-                <div class="col-xs-12 col-md-12">
-                    <div class="ts-speaker-info">
-                        <h2 class="ts-speaker-name text-center"> </h2>
+                <div class="ts-speaker-list last clearfix">
+                    <div class="col-xs-12 col-md-6">
+                        <div class="ts-speaker-image">
+                            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                                </ol>
 
-                        <div class="ts-speaker-bio">
-                            <p>Mysuru (Mysore), one of the main cities of Karnataka is located in the foothills of the Chamundi Hills about 146 km (91 mi) southwest of Bangalore.
-                                A well-connected transport system lets you travel hassle-free both within and outside the city.
-                                You’ll find numerous options to get around Mysore with cabs (Uber/Ola cabs are active and easily available), the local bus systems being the most efficient.</p>
-                            <p>Mysore is  home to rich spices,silk and sandalwood.Noted for its heritage structures and palaces, Mysore has historical importance and houses the opulent Mysore Palace.
-                                Other destinations you should spare your time for are- Chamundeshwari Temple,Brindavan Gardens,Jaganmohan Palace,St. Philomena's Cathedral and Krishna Raj Sagara to name a few.</p>
-                        </div>
-                    </div><!-- Info end -->
-                </div><!-- Col end -->
-            </div><!-- Speaker list 1 end -->
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <div class="carousel-caption">
+                                            <p>Mysore palace</p>
+                                        </div>
+                                        <img src="images/slider/Mysore_Palace.jpg" alt="">
+                                    </div>
+
+                                    <div class="item">
+                                        <div class="carousel-caption">
+                                            <p>Jagan Mohan palace</p>
+                                        </div>
+                                        <img src="images/slider/Jagan_Mohan_Palace.jpg" alt="">
+                                    </div>
+
+                                    <div class="item">
+                                        <div class="carousel-caption">
+                                            <p>Oriental Research Institute</p>
+                                        </div>
+                                        <img src="images/slider/Oriental_library.jpg" alt="">
+                                    </div>
+
+                                    <div class="item">
+                                        <div class="carousel-caption">
+                                            <p>Mysore Zoo</p>
+                                        </div>
+                                        <img src="images/slider/Zoo.jpg" alt="">
+                                    </div>
+
+                                </div>
+
+                                <!-- Left and right controls -->
+                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
+                            </div>
+                        </div><!--Image end -->
+                    </div><!-- Col end -->
+
+                    <div class="col-xs-12 col-md-6">
+                            <div class="ts-speaker-bio">
+                                <p>Mysuru (Mysore), The most enchanting city in South India. A city that is famous for
+                                    its glittering royal heritage palaces, magnificent monuments, and marvelous
+                                    architectural structures. A World Heritage place Mysuru has a royal history behind
+                                    its richness in culture and tradition. It served as a capital city of the Kingdom of
+                                    Mysore for nearly six centuries. The Kingdom was ruled by Wadiyar Dynasty.</p>
+                                <p>The city is situated in the foothills of the Chamundi Hills, which is about 146kms
+                                    (91mi) southwest of Bengaluru. The city is well-connected transport system with
+                                    numerous options to get around Mysore. Public transport is the most efficient mean
+                                    of transport to travel within and outside the city. Cab facility is active and
+                                    easily available(Uber/Ola).</p>
+                                <p>Mysore is home to rich spices, silk, and sandalwood. Mysore has historical importance
+                                    and houses the opulent Mysore Palace. Other destinations you should spare your time
+                                    for are - Chamundeshwari Temple, Brindavan Gardens, Jaganmohan Palace, St.
+                                    Philomena's Cathedral and Krishna Raj Sagara to name a few.</p>
+                            </div>
+                    </div><!-- Col end -->
+                </div><!-- Speaker list 2 end -->
+            </div>
 
         </div><!-- Conatiner end -->
     </section>
@@ -211,7 +279,8 @@
                             <ul>
                                 <li><a href="https://www.facebook.com/aisywc/"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="https://twitter.com/IEEEorg"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="https://linkedin.com/company/ieee-bangalore-section"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://linkedin.com/company/ieee-bangalore-section"><i
+                                        class="fa fa-linkedin"></i></a></li>
                             </ul>
                         </div><!-- Footer social end -->
 

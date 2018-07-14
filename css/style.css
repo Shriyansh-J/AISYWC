@@ -1962,6 +1962,12 @@ ul.navbar-nav > li.header-ticket:hover > a:after{
 	 margin:0 auto;
 }
 
+.sponsor-title-index{
+	 padding-bottom: 40px;
+	 max-width: 750px;
+	 margin:0 auto;
+}
+
 .sponsor-logo{
 	display: inline-block;
 	text-align: center;
