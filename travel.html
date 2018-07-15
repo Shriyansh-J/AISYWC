@@ -23,6 +23,8 @@
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--bootstrap 3 for table classes-->
+    <link rel="stylesheet" href="css/bootstrap3.min.css">
     <!-- Template styles-->
     <link rel="stylesheet" href="css/style.css">
     <!-- Responsive styles-->
@@ -55,6 +57,13 @@
 
         gtag('config', 'UA-122245081-1');
     </script>
+
+    <style>
+        th{
+            background-color: azure;
+            color: aqua;
+        }
+    </style>
 </head>
 
 <body>
@@ -155,652 +164,490 @@
             <h2 class="text-center">Coming Soon</h2>
         </div>
 
-        <div class="container" hidden>
+        <div class="container">
 
             <div class="row ">
                 <h1 class="text-center text-info">Arrival</h1>
 
-                <div class="ritz grid-container" dir="ltr">
-                    <table class="waffle" cellspacing="0" cellpadding="0">
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover">
                         <tbody>
-                        <tr style='height:19px;'>
+                            
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO MYSORE</td>
+                        
+                        <tr>
 
-                            <td class="s0">( BENGALURU TO MYSORE)</td>
-                            <td class="s1"></td>
-                            <td class="s1"></td>
-                            <td class="s2"></td>
-                            <td class="s2"></td>
-                            <td class="s3"></td>
-                            <td class="s4"></td>
-                            <td class="s3"></td>
-                            <td class="s4"></td>
+                            <th>CABS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
 
                         </tr>
-                        <tr style='height:19px;'>
+                            
+                        <tr>
 
-                            <td class="s5">CABS</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
+                            <td>Ola</td>
+                            <td>Majestic</td>
+                            <td>Vidhya Vikas</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>2100-3000</td>
+
+                        </tr>
+                            
+                        <tr>
+
+                            <td>Ola</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Vidhya Vikas</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>2300-3500</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>Uber</td>
+                            <td>Majestic</td>
+                            <td>Vidhya Vikas</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>3430-4612</td>
+
+                        </tr>
+                        <tr>
+
+                            <td>Uber</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Vidhya Vikas</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>3430-4612</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <th>BUS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>SRS Travels (Mercedes Benz Multi Axle (2+2))</td>
+                            <td>Majestic Ananda Rao Circle</td>
+                            <td>Suburban Bus Stand opp kalyan jewellers</td>
+                            <td>5:45</td>
+                            <td>9:00</td>
+                            <td>300</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>SRS Travels(Scania AC Multi Axle Semi Sleeper(2+2))</td>
+                            <td>Majestic Ananda Rao Circle</td>
+                            <td>Gandhi Square S R S travles</td>
+                            <td>5:30</td>
+                            <td>8:30</td>
+                            <td>300</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>Kallada Travels (Suresh Kallada A/C Sleeper (2+1) )</td>
+                            <td>The bus starts at Opp Kalasipalayam Bus Stand.Ambika KalladaTravels</td>
+                            <td>Infosys Gate No. 2</td>
+                            <td>5:00</td>
+                            <td>8:00</td>
+                            <td>600</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>Orange Tours &amp; Travels (A/C Multi-Axle Semi Sleeper (2+2))</td>
+                            <td>Anand Rao Circle</td>
+                            <td>Mysore</td>
+                            <td>6:15</td>
+                            <td>9:30</td>
+                            <td>400</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <th>FLYBUS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>0231BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>2:31</td>
+                            <td>6:31</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0401BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>4:01</td>
+                            <td>8:00</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0800BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>8:00</td>
+                            <td>12:00</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1000BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>10:00</td>
+                            <td>14:00</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1400BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>14:00</td>
+                            <td>18:00</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>1630BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>16:30</td>
+                            <td>20:30</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>1800BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>18:00</td>
+                            <td>22:00</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>2100BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>21:00</td>
+                            <td>1:00</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>2230BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>22:30</td>
+                            <td>2:15</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>2355BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>23:55</td>
+                            <td>2:15</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>1230BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>12:30</td>
+                            <td>16:30</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>0530BIALMYS</td>
+                            <td>Kempegowda International airport</td>
+                            <td>Mysuru</td>
+                            <td>5:30</td>
+                            <td>9:30</td>
+                            <td>800</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <th>TRAIN</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>MYSORE EXPRESS(16231) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days
                             </td>
-                            <td class="s8"></td>
-                            <td class="s9"></td>
-                            <td class="s10"></td>
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Ola</td>
-                            <td class="s11">Majestic</td>
-                            <td class="s11">Vidhya Vikas</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">2100-3000</td>
+                            <td> Bangalore Cy Junction (SBC)</td>
+                            <td>Mysore Jn</td>
+                            <td>6:00</td>
+                            <td>8:40</td>
+                            <td>160</td>
 
                         </tr>
-                        <tr style='height:19px;'>
+                        <tr>
 
-                            <td class="s11">Ola</td>
-                            <td class="s11">Kempegowda International airport</td>
-                            <td class="s11">Vidhya Vikas</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">2300-3500</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Uber</td>
-                            <td class="s11">Majestic</td>
-                            <td class="s11">Vidhya Vikas</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">3430-4612</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Uber</td>
-                            <td class="s11">Kempegowda International airport</td>
-                            <td class="s11">Vidhya Vikas</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">N/A</td>
-                            <td class="s11">3430-4612</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5" style="width:2px; overflow: hidden;">BUS</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
-                            </td>
-                            <td class="s15"></td>
-                            <td class="s15"></td>
-                            <td class="s10"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">SRS Travels (Mercedes Benz Multi Axle (2+2))</td>
-                            <td class="s12">Majestic Ananda Rao Circle</td>
-                            <td class="s12">Suburban Bus Stand opp kalyan jewellers</td>
-                            <td class="s12">5:45</td>
-                            <td class="s12">9:00</td>
-                            <td class="s12">300</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s10">SRS Travels(Scania AC Multi Axle Semi Sleeper(2+2))</td>
-                            <td class="s5">Majestic Ananda Rao Circle</td>
-                            <td class="s5">Gandhi Square S R S travles</td>
-                            <td class="s9">5:30</td>
-                            <td class="s9">8:30</td>
-                            <td class="s7">300</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">Kallada Travels (Suresh Kallada A/C Sleeper (2+1) )</td>
-                            <td class="s5">The bus starts at Opp Kalasipalayam Bus Stand.Ambika KalladaTravels</td>
-                            <td class="s5">Infosys Gate No. 2</td>
-                            <td class="s7">5:00</td>
-                            <td class="s7">8:00</td>
-                            <td class="s7">600</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">Orange Tours &amp; Travels (A/C Multi-Axle Semi Sleeper (2+2))</td>
-                            <td class="s5">Anand Rao Circle</td>
-                            <td class="s5">Mysore</td>
-                            <td class="s9">6:15</td>
-                            <td class="s9">9:30</td>
-                            <td class="s7">400</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s2">FLYBUS</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">0231BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">2:31</td>
-                            <td class="s7">6:31</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">0401BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">4:01</td>
-                            <td class="s7">8:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s6">0800BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">8:00</td>
-                            <td class="s7">12:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">1000BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">10:00</td>
-                            <td class="s7">14:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">1400BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">14:00</td>
-                            <td class="s7">18:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">1630BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">16:30</td>
-                            <td class="s7">20:30</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">1800BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">18:00</td>
-                            <td class="s7">22:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">2100BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">21:00</td>
-                            <td class="s7">1:00</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">2230BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">22:30</td>
-                            <td class="s7">2:15</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">2355BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">23:55</td>
-                            <td class="s7">2:15</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s10">1230BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">12:30</td>
-                            <td class="s7">16:30</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">0530BIALMYS</td>
-                            <td class="s6">Kempegowda International airport</td>
-                            <td class="s6">Mysuru</td>
-                            <td class="s7">5:30</td>
-                            <td class="s7">9:30</td>
-                            <td class="s7">800</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s2">TRAIN</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">MYSORE EXPRESS(16231) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days
-                            </td>
-                            <td class="s6"> Bangalore Cy Junction (SBC)</td>
-                            <td class="s6">Mysore Jn</td>
-                            <td class="s7">6:00</td>
-                            <td class="s7">8:40</td>
-                            <td class="s9">160</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">KAVERI EXPRESS(16021) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days
+                            <td>KAVERI EXPRESS(16021) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days
                                 26/9/18
                             </td>
-                            <td class="s6"> Bangalore Cy Junction (SBC)</td>
-                            <td class="s6">Mysore Jn</td>
-                            <td class="s7">4:00</td>
-                            <td class="s7">6:50</td>
-                            <td class="s9">160</td>
+                            <td> Bangalore Cy Junction (SBC)</td>
+                            <td>Mysore Jn</td>
+                            <td>4:00</td>
+                            <td>6:50</td>
+                            <td>160</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s5">MYSORE EXP(16235) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days 27/9/18
+                            <td>MYSORE EXP(16235) <br>KSR BENGALURU MYSURU JN<br>Departs on: All days 27/9/18
                             </td>
-                            <td class="s6"> Bangalore Cy Junction (SBC)</td>
-                            <td class="s6">Mysore Jn</td>
-                            <td class="s7">7:00</td>
-                            <td class="s7">9:45</td>
-                            <td class="s9">160</td>
+                            <td> Bangalore Cy Junction (SBC)</td>
+                            <td>Mysore Jn</td>
+                            <td>7:00</td>
+                            <td>9:45</td>
+                            <td>160</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                            <td class="s11"></td>
-                        </tr>
-                        <tr style='height:20px;'>
+                        <td colspan="6" style="color: white; background-color: black;">DELHI TO BENGALURU</td>
 
-                            <td class="s0">(DELHI TO BENGALURU)</td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s1"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                        </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s2">FLIGHT</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">Air Asia I5- 721</td>
-                            <td class="s5">Indira Gandhi International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">21:45</td>
-                            <td class="s7">23:30</td>
-                            <td class="s7">4,969</td>
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">IndiGo 6E - 2306</td>
-                            <td class="s5">Indira Gandhi International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">18:05</td>
-                            <td class="s7">19:45</td>
-                            <td class="s7">2,934</td>
+                        <tr>
 
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                            <td class="s12"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s0">(CHENNAI TO BENGALURU)</td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s1"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                            <td class="s0"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s2">FLIGHT</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">Spice Jet SG 3301</td>
-                            <td class="s5">Chennai International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">6:05</td>
-                            <td class="s7">7:10</td>
-                            <td class="s7">1,330</td>
+                            <td>Air Asia I5- 721</td>
+                            <td>Indira Gandhi International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>21:45</td>
+                            <td>23:30</td>
+                            <td>4,969</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">IndiGo 6E 271</td>
-                            <td class="s5">Chennai International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">9:15</td>
-                            <td class="s7">10:30</td>
-                            <td class="s7">1,330</td>
+                        <tr>
 
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s6"></td>
-                            <td class="s7"></td>
+                            <td>IndiGo 6E - 2306</td>
+                            <td>Indira Gandhi International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>18:05</td>
+                            <td>19:45</td>
+                            <td>2,934</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s13">(HYDERABAD TO BENGALURU)</td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                        </tr>
-                        <tr style='height:20px;'>
+                        <td colspan="6" style="color: white; background-color: black;">CHENNAI TO BENGALURU</td>
 
-                            <td class="s2">FLIGHT</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                        </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s5">Air Asia I5 - 1527</td>
-                            <td class="s15">Rajiv Gandhi International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">12:10</td>
-                            <td class="s7">13:30</td>
-                            <td class="s7">1,499</td>
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">IndiGo 6E - 6417</td>
-                            <td class="s15">Rajiv Gandhi International Airport</td>
-                            <td class="s5">Kempegowda International Airport</td>
-                            <td class="s9">13:45</td>
-                            <td class="s7">15:00</td>
-                            <td class="s7">1,786</td>
+                        <tr>
 
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s7"></td>
+                            <td>Spice Jet SG 3301</td>
+                            <td>Chennai International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>6:05</td>
+                            <td>7:10</td>
+                            <td>1,330</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s16">(MUMBAI TO BENGALURU)</td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-                        </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s2">FLIGHT</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">SpiceJet SG - 634</td>
-                            <td class="s15 softmerge">
-                                <div class="softmerge-inner" style="width: 307px; left: -1px;">Chhatrapati Shivaji
-                                    Maharaj International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s6 softmerge">
-                                <div class="softmerge-inner" style="width: 226px; left: -1px;">Kempegowda International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s9">13:10</td>
-                            <td class="s7">14:45</td>
-                            <td class="s7">2,214</td>
+                            <td>IndiGo 6E 271</td>
+                            <td>Chennai International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>9:15</td>
+                            <td>10:30</td>
+                            <td>1,330</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">Go Air G8 - 382</td>
-                            <td class="s15 softmerge">
-                                <div class="softmerge-inner" style="width: 307px; left: -1px;">Chhatrapati Shivaji
-                                    Maharaj International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s6 softmerge">
-                                <div class="softmerge-inner" style="width: 226px; left: -1px;">Kempegowda International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s9">14:35</td>
-                            <td class="s7">16:15</td>
-                            <td class="s7">2,419</td>
+                        <td colspan="6" style="color: white; background-color: black;">HYDERABAD TO BENGALURU</td>
+
+                        <tr>
+
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
+                        </tr>
+
+                        <tr>
+
+                            <td>Air Asia I5 - 1527</td>
+                            <td>Rajiv Gandhi International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>12:10</td>
+                            <td>13:30</td>
+                            <td>1,499</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s5"></td>
-                            <td class="s7"></td>
+                        <tr>
 
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s14"><span style="font-weight:bold;">(</span><span
-                                    style="font-weight:bold;color:#fafafa;">(TRIVANDRUM TO BENGALURU)</span>
-                            </td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s2">FLIGHT</td>
-                            <td class="s2">From</td>
-                            <td class="s2">To</td>
-                            <td class="s3">Departure</td>
-                            <td class="s3">Arrival</td>
-                            <td class="s4">Cost</td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                            <td class="s4"></td>
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">Air India AI - 584</td>
-                            <td class="s5">Trivandrum International Airport</td>
-                            <td class="s6 softmerge">
-                                <div class="softmerge-inner" style="width: 226px; left: -1px;">Kempegowda International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s9">9:15</td>
-                            <td class="s7">10:30</td>
-                            <td class="s7">2,986</td>
-
+                            <td>IndiGo 6E - 6417</td>
+                            <td>Rajiv Gandhi International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>13:45</td>
+                            <td>15:00</td>
+                            <td>1,786</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">IndiGo 6E - 874</td>
-                            <td class="s5">Trivandrum International Airport</td>
-                            <td class="s6 softmerge">
-                                <div class="softmerge-inner" style="width: 226px; left: -1px;">Kempegowda International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s9">7:50</td>
-                            <td class="s7">9:10</td>
-                            <td class="s7">1,676</td>
+                        <td colspan="6" style="color: white; background-color: black;">MUMBAI TO BENGALURU</td>
 
+                        <tr>
+
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
 
                         </tr>
+
+                        <tr>
+
+                            <td>SpiceJet SG - 634</td>
+                            <td>Chhatrapati Shivaji Maharaj International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>13:10</td>
+                            <td>14:45</td>
+                            <td>2,214</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>Go Air G8 - 382</td>
+                            <td>Chhatrapati Shivaji Maharaj International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>14:35</td>
+                            <td>16:15</td>
+                            <td>2,419</td>
+
+                        </tr>
+
+                        <td colspan="6" style="color: white; background-color: black;">TRIVANDRUM TO BENGALURU</td>
+
+                        <tr>
+
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
+                        </tr>
+
+                        <tr>
+
+                            <td>Air India AI - 584</td>
+                            <td>Trivandrum International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>9:15</td>
+                            <td>10:30</td>
+                            <td>2,986</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>IndiGo 6E - 874</td>
+                            <td>Trivandrum International Airport</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>7:50</td>
+                            <td>9:10</td>
+                            <td>1,676</td>
+
+                        </tr>
+
                         </tbody>
                     </table>
                 </div>
@@ -810,762 +657,580 @@
             <div class="row ">
                 <h1 class="text-center text-info">Departure</h1>
 
-                <div class="ritz grid-container" dir="ltr">
-                    <table class="waffle" cellspacing="0" cellpadding="0">
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover">
                         <tbody>
-                        <tr style='height:19px;'>
-
-                            <td class="s0">(MYSORE TO BENGALURU)</td>
-                            <td class="s1"></td>
-                            <td class="s1"></td>
-                            <td class="s2"></td>
-                            <td class="s2"></td>
-                            <td class="s3"></td>
-                            <td class="s4"></td>
-                            <td class="s3"></td>
-                            <td class="s4"></td>
 
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">CABS</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
-                            </td>
-                            <td class="s8"></td>
-                            <td class="s9"></td>
-                            <td class="s10"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Ola</td>
-                            <td class="s11">Vidhya Vikas</td>
-                            <td class="s11">Majestic</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">2100-3000</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Ola</td>
-                            <td class="s12">Vidhya Vikas</td>
-                            <td class="s11">International airport</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">2300-3500</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Uber</td>
-                            <td class="s12">Vidhya Vikas</td>
-                            <td class="s11">Majestic</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">3430-4612</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s11">Uber</td>
-                            <td class="s12">Vidhya Vikas</td>
-                            <td class="s11">International airport</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">N/A</td>
-                            <td class="s12">3430-4612</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s13"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-                            <td class="s14"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">BUS</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
-                            </td>
-                            <td class="s15"></td>
-                            <td class="s15"></td>
-                            <td class="s10"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">Airavat club class</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Shanthi sagar double road</td>
-                            <td class="s12">14:02</td>
-                            <td class="s12">17:02</td>
-                            <td class="s12">364</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">Airavat club class</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Shanthi sagar double road</td>
-                            <td class="s12">15:00</td>
-                            <td class="s12">18:30</td>
-                            <td class="s12">364</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">Airavat club class</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Majestic</td>
-                            <td class="s12">16:00</td>
-                            <td class="s12">18:16</td>
-                            <td class="s12">316</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12 softmerge">
-                                <div class="softmerge-inner" style="width: 300px; left: -1px;">orange Tours and Travels,
-                                    volvo, semi
-                                    sleeper(2+2)
-                                </div>
-                            </td>
-                            <td class="s12">Near Suburban Bus stand</td>
-                            <td class="s12">Electronic city/ Silk board/ Marathahalli</td>
-                            <td class="s12">19:00</td>
-                            <td class="s12">22:00</td>
-                            <td class="s12">400</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">SRS Travels, scania, semi sleeper(2+2)</td>
-                            <td class="s12">Near Suburban Bus stand</td>
-                            <td class="s12">Majestic</td>
-                            <td class="s12">17:00</td>
-                            <td class="s12">22:00</td>
-                            <td class="s12">300</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">Kaveri Travels</td>
-                            <td class="s12">Near Suburban Bus stand</td>
-                            <td class="s12">Marthalli</td>
-                            <td class="s12">19:00</td>
-                            <td class="s12">23:00</td>
-                            <td class="s12">500</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">Kallada Tours and Travels</td>
-                            <td class="s12">Near Suburban Bus stand</td>
-                            <td class="s12">Opposite Kalasipalayam bus stand</td>
-                            <td class="s12">19:15</td>
-                            <td class="s12">23:00</td>
-                            <td class="s12">900+</td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s5">FLYBUS</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
-                            </td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s6"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">0300MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">3:00</td>
-                            <td class="s12">6:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:19px;'>
-
-                            <td class="s12">0430MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">4:30</td>
-                            <td class="s12">8:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">0630MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">6:30</td>
-                            <td class="s12">10:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">0831MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">8:31</td>
-                            <td class="s12">12:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">1001MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">10:01</td>
-                            <td class="s12">14:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">0830MRCBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">11:30</td>
-                            <td class="s12">15:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
+                        <td colspan="6" style="color: white; background-color: black;">MYSORE TO BENGALURU</td>
 
-                            <td class="s12">1130MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">11:30</td>
-                            <td class="s12">15:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
+                        <tr>
 
+                            <th>CABS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
+                            
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s12">1300MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">13:00</td>
-                            <td class="s12">17:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
+                            <td>Ola</td>
+                            <td>Vidhya Vikas</td>
+                            <td>Majestic</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>2100-3000</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s12">1500MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">15:00</td>
-                            <td class="s12">19:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
+                            <td>Ola</td>
+                            <td>Vidhya Vikas</td>
+                            <td>International airport</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>2300-3500</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s12">1700MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">17:00</td>
-                            <td class="s12">21:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
+                            <td>Uber</td>
+                            <td>Vidhya Vikas</td>
+                            <td>Majestic</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>3430-4612</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s12">1900MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">19:00</td>
-                            <td class="s12">23:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
+                            <td>Uber</td>
+                            <td>Vidhya Vikas</td>
+                            <td>International airport</td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>3430-4612</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s12">2030MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">20:30</td>
-                            <td class="s12">0:30</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">2201MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">22:01</td>
-                            <td class="s12">2:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">2300MYSBIAL</td>
-                            <td class="s12">Mysuru Bus stand</td>
-                            <td class="s12">Kempegowda International Airport</td>
-                            <td class="s12">23:00</td>
-                            <td class="s12">3:00</td>
-                            <td class="s12">800</td>
-                            <td class="s12"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s16"></td>
-                            <td class="s17"></td>
-                            <td class="s17"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">TRAIN</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s7 softmerge">
-                                <div class="softmerge-inner" style="width: 210px; left: -1px;">Approximate Cost</div>
-                            </td>
-                            <td class="s8"></td>
-                            <td class="s8"></td>
-                            <td class="s6"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">MAILADUTURAI EXPRESS(16232)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">15:30</td>
-                            <td class="s12">18:15</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">GOLGUMBAZ EXPRESS(16535)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">16:00</td>
-                            <td class="s12">18:50</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">HAMPI EXPRESS(16592)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">19:00</td>
-                            <td class="s12">21:55</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">KAVERI EXPRESS(16022)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">20:30</td>
-                            <td class="s12">23:25</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">TUTICORIN EXPRESS(16236)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">18:00</td>
-                            <td class="s12">21:00</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">CMNR TPTY EXPRESS(16219)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">17:00</td>
-                            <td class="s12">20:15</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s12">TALGUPPA EXPRESS(16227)</td>
-                            <td class="s12">Mysuru JN</td>
-                            <td class="s12">Banglore Cy Junction(SBC)</td>
-                            <td class="s12">19:40</td>
-                            <td class="s12">23:05</td>
-                            <td class="s12">140</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s18"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s20">(BENGALURU TO DELHI)</td>
-                            <td class="s21"></td>
-                            <td class="s21"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">FLIGHT</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s6">Cost</td>
-                            <td class="s6"></td>
-                            <td class="s6"></td>
-                            <td class="s6"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s11">IndiGo 6E - 2228</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Indira Gandhi International Airport</td>
-                            <td class="s12">7:10</td>
-                            <td class="s12">10:05</td>
-                            <td class="s12">3087</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s11">GoAir G8 - 116</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Indira Gandhi International Airport</td>
-                            <td class="s12">7:50</td>
-                            <td class="s12">10:40</td>
-                            <td class="s12">3065</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s20">(BENGALURU TO CHENNAI)</td>
-                            <td class="s20"></td>
-                            <td class="s20"></td>
-                            <td class="s20"></td>
-                            <td class="s20"></td>
-                            <td class="s2"></td>
-                            <td class="s20"></td>
-                            <td class="s20"></td>
-                            <td class="s20"></td>
-
-
-                        </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s5">FLIGHT</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s6">Cost</td>
-                            <td class="s6"></td>
-                            <td class="s6"></td>
-                            <td class="s6"></td>
-
+                            <th>BUS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
+                            
                         </tr>
-                        <tr style='height:20px;'>
-
-                            <td class="s11">Air India AI - 564</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Chennai International Airport</td>
-                            <td class="s12">11:50</td>
-                            <td class="s12">12:50</td>
-                            <td class="s12">1587</td>
+                        
+                        <tr>
 
+                            <td>Airavat club class</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Shanthi sagar double road</td>
+                            <td>14:02</td>
+                            <td>17:02</td>
+                            <td>364</td>
+
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s11">IndiGo 6E - 389</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Chennai International Airport</td>
-                            <td class="s12">12:25</td>
-                            <td class="s12">13:20</td>
-                            <td class="s12">1640</td>
+                            <td>Airavat club class</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Shanthi sagar double road</td>
+                            <td>15:00</td>
+                            <td>18:30</td>
+                            <td>364</td>
+
+                        </tr>
+                        
+                        <tr>
 
+                            <td>Airavat club class</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Majestic</td>
+                            <td>16:00</td>
+                            <td>18:16</td>
+                            <td>316</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>orange Tours and Travels, volvo, semi sleeper(2+2)</td>
+                            <td>Near Suburban Bus stand</td>
+                            <td>Electronic city/ Silk board/ Marathahalli</td>
+                            <td>19:00</td>
+                            <td>22:00</td>
+                            <td>400</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>SRS Travels, scania, semi sleeper(2+2)</td>
+                            <td>Near Suburban Bus stand</td>
+                            <td>Majestic</td>
+                            <td>17:00</td>
+                            <td>22:00</td>
+                            <td>300</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>Kaveri Travels</td>
+                            <td>Near Suburban Bus stand</td>
+                            <td>Marthalli</td>
+                            <td>19:00</td>
+                            <td>23:00</td>
+                            <td>500</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>Kallada Tours and Travels</td>
+                            <td>Near Suburban Bus stand</td>
+                            <td>Opposite Kalasipalayam bus stand</td>
+                            <td>19:15</td>
+                            <td>23:00</td>
+                            <td>900+</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <th>FLYBUS</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0300MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>3:00</td>
+                            <td>6:30</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0430MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>4:30</td>
+                            <td>8:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0630MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>6:30</td>
+                            <td>10:30</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0831MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>8:31</td>
+                            <td>12:30</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1001MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>10:01</td>
+                            <td>14:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>0830MRCBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>11:30</td>
+                            <td>15:30</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1130MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>11:30</td>
+                            <td>15:30</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1300MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>13:00</td>
+                            <td>17:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1500MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>15:00</td>
+                            <td>19:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1700MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>17:00</td>
+                            <td>21:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>1900MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>19:00</td>
+                            <td>23:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>2030MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>20:30</td>
+                            <td>0:30</td>
+                            <td>800</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>2201MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>22:01</td>
+                            <td>2:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>2300MYSBIAL</td>
+                            <td>Mysuru Bus stand</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>23:00</td>
+                            <td>3:00</td>
+                            <td>800</td>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <th>TRAIN</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Approximate Cost</th>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>MAILADUTURAI EXPRESS(16232)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>15:30</td>
+                            <td>18:15</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>GOLGUMBAZ EXPRESS(16535)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>16:00</td>
+                            <td>18:50</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>HAMPI EXPRESS(16592)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>19:00</td>
+                            <td>21:55</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>KAVERI EXPRESS(16022)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>20:30</td>
+                            <td>23:25</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>TUTICORIN EXPRESS(16236)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>18:00</td>
+                            <td>21:00</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>CMNR TPTY EXPRESS(16219)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>17:00</td>
+                            <td>20:15</td>
+                            <td>140</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>TALGUPPA EXPRESS(16227)</td>
+                            <td>Mysuru JN</td>
+                            <td>Banglore Cy Junction(SBC)</td>
+                            <td>19:40</td>
+                            <td>23:05</td>
+                            <td>140</td>
+
+                        </tr>
+
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO DELHI</td>
+
+                        <tr>
+
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
+                        </tr>
+                        
+                        <tr>
+
+                            <td>IndiGo 6E - 2228</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Indira Gandhi International Airport</td>
+                            <td>7:10</td>
+                            <td>10:05</td>
+                            <td>3087</td>
+
+                        </tr>
+                        
+                        <tr>
+
+                            <td>GoAir G8 - 116</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Indira Gandhi International Airport</td>
+                            <td>7:50</td>
+                            <td>10:40</td>
+                            <td>3065</td>
+
+                        </tr>
+
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO CHENNAI</td>
+
+                        <tr>
+
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s19"></td>
-                            <td class="s19"></td>
-                            <td class="s18"></td>
-                            <td class="s19"></td>
-                            <td class="s18"></td>
-                            <td class="s19"></td>
-                            <td class="s18"></td>
+                            <td>Air India AI - 564</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Chennai International Airport</td>
+                            <td>11:50</td>
+                            <td>12:50</td>
+                            <td>1587</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s23">(BENGALURU TO HYDERABAD)</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
+                            <td>IndiGo 6E - 389</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Chennai International Airport</td>
+                            <td>12:25</td>
+                            <td>13:20</td>
+                            <td>1640</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s5">FLIGHT</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s6">Cost</td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO HYDERABAD</td>
 
+                        <tr>
 
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s11">AirAsia I5 - 1576</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s12">Rajiv Gandhi International Airport</td>
-                            <td class="s12">7:45</td>
-                            <td class="s12">8:55</td>
-                            <td class="s12">2240</td>
+                            <td>AirAsia I5 - 1576</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Rajiv Gandhi International Airport</td>
+                            <td>7:45</td>
+                            <td>8:55</td>
+                            <td>2240</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s11">IndiGo 6E - 526</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s12">Rajiv Gandhi International Airport</td>
-                            <td class="s12">9:55</td>
-                            <td class="s12">11:05</td>
-                            <td class="s12">2056</td>
+                            <td>IndiGo 6E - 526</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Rajiv Gandhi International Airport</td>
+                            <td>9:55</td>
+                            <td>11:05</td>
+                            <td>2056</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-                            <td class="s18"></td>
-
-                        </tr>
-                        <tr style='height:20px;'>
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO MUMBAI</td>
 
-                            <td class="s26">(BENGALURU TO MUMBAI )</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
+                        <tr>
 
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
+                            
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s5">FLIGHT</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s6">Cost</td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
+                            <td>Jet Airways 9W - 412</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Chhatrapati Shivaji Maharaj International Airport</td>
+                            <td>9:10</td>
+                            <td>10:55</td>
+                            <td>2212</td>
 
                         </tr>
-                        <tr style='height:20px;'>
+                        
+                        <tr>
 
-                            <td class="s11">Jet Airways 9W - 412</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s12 softmerge">
-                                <div class="softmerge-inner" style="width: 323px; left: -1px;">Chhatrapati Shivaji
-                                    Maharaj International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s12">9:10</td>
-                            <td class="s12">10:55</td>
-                            <td class="s12">2212</td>
+                            <td>IndiGo 6E-414</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Chhatrapati Shivaji Maharaj International Airport</td>
+                            <td>12:50</td>
+                            <td>14:40</td>
+                            <td>1896</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s12">IndiGo 6E-414</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s12 softmerge">
-                                <div class="softmerge-inner" style="width: 323px; left: -1px;">Chhatrapati Shivaji
-                                    Maharaj International
-                                    Airport
-                                </div>
-                            </td>
-                            <td class="s12">12:50</td>
-                            <td class="s12">14:40</td>
-                            <td class="s12">1896</td>
+                        <td colspan="6" style="color: white; background-color: black;">BENGALURU TO TRIVANDRUM</td>
 
-                        </tr>
-                        <tr style='height:21px;'>
+                        <tr>
 
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
-                            <td class="s25"></td>
+                            <th>FLIGHT</th>
+                            <th>From</th>
+                            <th>To</th>
+                            <th>Departure</th>
+                            <th>Arrival</th>
+                            <th>Cost</th>
 
                         </tr>
-                        <tr style='height:21px;'>
-
-                            <td class="s26">(BENGALURU TO TRIVANDRUM)</td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
-                            <td class="s3"></td>
 
-                        </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s5">FLIGHT</td>
-                            <td class="s5">From</td>
-                            <td class="s5">To</td>
-                            <td class="s6">Departure</td>
-                            <td class="s6">Arrival</td>
-                            <td class="s6">Cost</td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
-                            <td class="s24"></td>
+                            <td>IndiGo 6E - 522</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Trivandrum International Airport</td>
+                            <td>13:30</td>
+                            <td>14:50</td>
+                            <td>1607</td>
 
                         </tr>
-                        <tr style='height:20px;'>
 
-                            <td class="s12">IndiGo 6E - 522</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Trivandrum International Airport</td>
-                            <td class="s12">13:30</td>
-                            <td class="s12">14:50</td>
-                            <td class="s12">1607</td>
-
-                        </tr>
-                        <tr style='height:20px;'>
+                        <tr>
 
-                            <td class="s12">Jet Airways 9W - 151</td>
-                            <td class="s11">Kempegowda International Airport</td>
-                            <td class="s11">Trivandrum International Airport</td>
-                            <td class="s12">17:30</td>
-                            <td class="s12">18:40</td>
-                            <td class="s12">1511</td>
+                            <td>Jet Airways 9W - 151</td>
+                            <td>Kempegowda International Airport</td>
+                            <td>Trivandrum International Airport</td>
+                            <td>17:30</td>
+                            <td>18:40</td>
+                            <td>1511</td>
 
                         </tr>
                         </tbody>
