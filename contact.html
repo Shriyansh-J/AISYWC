@@ -157,8 +157,8 @@
                     Mysuru, Karnataka 570028.</p>
             </div>
 
-            <div id="map" class="map" hidden></div>
-            <iframe class="map" width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=VVIET&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+            <!--<div id="map" class="map" hidden></div>-->
+            <iframe class="map" id= "map"width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=VVIET&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
             <div class="gap-60"></div>
 
@@ -287,32 +287,32 @@
     <!-- Color box -->
     <script type="text/javascript" src="js/jquery.colorbox.js"></script>
     <!-- Google Map -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>
+    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>-->
     <!-- Doc https://developers.google.com/maps/documentation/javascript/get-api-key -->
     <!-- For latitude and longitude use http://www.latlong.net/ -->
 
-    <script type="text/javascript" src="js/gmap3.js"></script>
+    <!--<script type="text/javascript" src="js/gmap3.js"></script>-->
 
-    <script type="text/javascript">
+    <!--<script type="text/javascript">-->
 
-        /* Google Map */
+        <!--/* Google Map */-->
 
-        $(function () {
-            $('#map')
-                .gmap3({
-                    address: "#127-128, Mysore - Bannur Road, Alanahally, Mysuru, Karnataka 570028",
-                    zoom: 13,
-                    center: [12.3039593, 76.7114517],
-                    mapTypeId: google.maps.MapTypeId.ROADMAP,
-                    scrollwheel: false
-                })
-                .marker([
-                    {position: [12.3039593, 76.7114517]},
-                    {icon: "http://maps.google.com/mapfiles/marker_grey.png"}
-                ])
-        });
+        <!--$(function () {-->
+            <!--$('#map')-->
+                <!--.gmap3({-->
+                    <!--address: "#127-128, Mysore - Bannur Road, Alanahally, Mysuru, Karnataka 570028",-->
+                    <!--zoom: 13,-->
+                    <!--center: [12.3039593, 76.7114517],-->
+                    <!--mapTypeId: google.maps.MapTypeId.ROADMAP,-->
+                    <!--scrollwheel: false-->
+                <!--})-->
+                <!--.marker([-->
+                    <!--{position: [12.3039593, 76.7114517]},-->
+                    <!--{icon: "http://maps.google.com/mapfiles/marker_grey.png"}-->
+                <!--])-->
+        <!--});-->
 
-    </script>
+    <!--</script>-->
 
     <!-- Template custom -->
     <script type="text/javascript" src="js/custom.js"></script>
