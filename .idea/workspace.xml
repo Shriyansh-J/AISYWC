@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad838f38-be3b-4db3-9726-aa31d2d295b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Amit.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Annadurai.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Balakrishna.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/DanielLottis.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/DeepakMathur.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Jagadeesh.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Preeti_Bajaj.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Ravikiran A.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/ShriHarsha.JPG" afterPath="$PROJECT_DIR$/images/speakers/ShriHarsha.JPG" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/SivajiChakravorti.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/kristen.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/rohit.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" afterPath="$PROJECT_DIR$/speakers.html" />
+      <change beforePath="$PROJECT_DIR$/images/sponsors/Entuple-Ansys Logo blue.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="speakers.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="speakers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speakers.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -58,6 +46,25 @@
                 <element signature="n#div#9;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#10;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="811" column="60" lean-forward="false" selection-start-line="811" selection-start-column="60" selection-end-line="811" selection-end-column="60" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -139,7 +146,6 @@
         <option value="$PROJECT_DIR$/attractions.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mysore.html" />
         <option value="$PROJECT_DIR$/organizers.html" />
         <option value="$PROJECT_DIR$/register.html" />
@@ -149,6 +155,7 @@
         <option value="$PROJECT_DIR$/venue.html" />
         <option value="$USER_HOME$/Downloads/AISYWC'18 - Speaker Management/SPEAKERS.html" />
         <option value="$PROJECT_DIR$/speakers.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -328,12 +335,12 @@
       <workItem from="1533127881888" duration="547000" />
       <workItem from="1533143650994" duration="4841000" />
       <workItem from="1533226473510" duration="225000" />
-      <workItem from="1533314519651" duration="778000" />
+      <workItem from="1533314519651" duration="1888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220841000" />
+    <option name="totallyTimeSpent" value="221951000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="69" column="57" lean-forward="false" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/AISYWC'18 - Speaker Management/SPEAKERS.html" />
     <entry file="file://$PROJECT_DIR$/speakers.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -708,6 +708,23 @@
             <element signature="n#div#9;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#10;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="811" column="60" lean-forward="false" selection-start-line="811" selection-start-column="60" selection-end-line="811" selection-end-column="60" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
