@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad838f38-be3b-4db3-9726-aa31d2d295b4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Amit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Annadurai.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Balakrishna.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/DanielLottis.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/DeepakMathur.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Jagadeesh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Preeti_Bajaj.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/Ravikiran A.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/ShriHarsha.JPG" afterPath="$PROJECT_DIR$/images/speakers/ShriHarsha.JPG" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/SivajiChakravorti.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/kristen.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/rohit.jpeg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/speakers.html" afterPath="$PROJECT_DIR$/speakers.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +41,8 @@
       <file leaf-file-name="speakers.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/speakers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="563" column="28" lean-forward="false" selection-start-line="563" selection-start-column="28" selection-end-line="563" selection-end-column="28" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -192,8 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,6 +220,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,12 +327,13 @@
       <workItem from="1533104911624" duration="3876000" />
       <workItem from="1533127881888" duration="547000" />
       <workItem from="1533143650994" duration="4841000" />
-      <workItem from="1533226473510" duration="100000" />
+      <workItem from="1533226473510" duration="225000" />
+      <workItem from="1533314519651" duration="778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219938000" />
+    <option name="totallyTimeSpent" value="220841000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,7 +348,7 @@
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1936255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19681275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -677,8 +691,8 @@
     <entry file="file://$USER_HOME$/Downloads/AISYWC'18 - Speaker Management/SPEAKERS.html" />
     <entry file="file://$PROJECT_DIR$/speakers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="563" column="28" lean-forward="false" selection-start-line="563" selection-start-column="28" selection-end-line="563" selection-end-column="28" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
