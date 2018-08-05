@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad838f38-be3b-4db3-9726-aa31d2d295b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
+      <change beforePath="$PROJECT_DIR$/travel.html" afterPath="$PROJECT_DIR$/travel.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -78,6 +77,16 @@
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="travel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/travel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="1055" column="34" lean-forward="false" selection-start-line="1055" selection-start-column="34" selection-end-line="1055" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -162,12 +171,12 @@
         <option value="$PROJECT_DIR$/organizers.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/schedule.html" />
-        <option value="$PROJECT_DIR$/travel.html" />
         <option value="$PROJECT_DIR$/venue.html" />
         <option value="$USER_HOME$/Downloads/AISYWC'18 - Speaker Management/SPEAKERS.html" />
         <option value="$PROJECT_DIR$/speakers.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sponsors.html" />
+        <option value="$PROJECT_DIR$/travel.html" />
       </list>
     </option>
   </component>
@@ -350,12 +359,12 @@
       <workItem from="1533314519651" duration="3411000" />
       <workItem from="1533388088584" duration="632000" />
       <workItem from="1533447676483" duration="1314000" />
-      <workItem from="1533480378293" duration="319000" />
+      <workItem from="1533480378293" duration="1088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225739000" />
+    <option name="totallyTimeSpent" value="226508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,13 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/travel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="75" column="57" lean-forward="false" selection-start-line="75" selection-start-column="57" selection-end-line="75" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysore.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -744,6 +746,14 @@
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1055" column="34" lean-forward="false" selection-start-line="1055" selection-start-column="34" selection-end-line="1055" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
