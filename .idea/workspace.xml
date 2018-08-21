@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad838f38-be3b-4db3-9726-aa31d2d295b4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/ccna_cyberOps.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="552">
-              <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
+              <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -66,12 +65,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-right-sidebar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Projects/reference/Templates/Web/mirrored/eventime/blog-right-sidebar.html">
+      <file leaf-file-name="schedule.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="170" column="57" lean-forward="false" selection-start-line="170" selection-start-column="29" selection-end-line="170" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="1076">
+              <caret line="484" column="20" lean-forward="true" selection-start-line="484" selection-start-column="20" selection-end-line="484" selection-end-column="20" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,7 +188,6 @@
         <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/mysore.html" />
         <option value="$PROJECT_DIR$/organizers.html" />
-        <option value="$PROJECT_DIR$/schedule.html" />
         <option value="$PROJECT_DIR$/venue.html" />
         <option value="$USER_HOME$/Downloads/AISYWC'18 - Speaker Management/SPEAKERS.html" />
         <option value="$PROJECT_DIR$/travel.html" />
@@ -197,6 +198,7 @@
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/schedule.html" />
       </list>
     </option>
   </component>
@@ -406,12 +408,12 @@
       <workItem from="1534083738336" duration="3664000" />
       <workItem from="1534262858174" duration="4439000" />
       <workItem from="1534521472382" duration="2535000" />
-      <workItem from="1534867188690" duration="851000" />
+      <workItem from="1534867188690" duration="1865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247129000" />
+    <option name="totallyTimeSpent" value="248143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="64" column="57" lean-forward="false" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venue.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -787,10 +782,21 @@
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
-          <caret line="286" column="20" lean-forward="false" selection-start-line="286" selection-start-column="20" selection-end-line="286" selection-end-column="20" />
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="484" column="20" lean-forward="true" selection-start-line="484" selection-start-column="20" selection-end-line="484" selection-end-column="20" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
