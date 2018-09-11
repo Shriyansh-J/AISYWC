@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a70a1b-9733-445e-9eaa-5c6acc2ebce2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/speakers/HMysore.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/speakers/SivajiChakravorti.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/speakers/YVS.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEWIE.png" afterPath="$PROJECT_DIR$/images/logos/IEEEWIE.png" />
+      <change beforePath="$PROJECT_DIR$/images/speakers/rohaan.jpg" afterPath="$PROJECT_DIR$/images/speakers/rohaan.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
+      <change beforePath="$PROJECT_DIR$/speakers.html" afterPath="$PROJECT_DIR$/speakers.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="1119" column="55" lean-forward="false" selection-start-line="1119" selection-start-column="55" selection-end-line="1119" selection-end-column="55" />
+            <state relative-caret-position="102">
+              <caret line="1075" column="71" lean-forward="false" selection-start-line="1075" selection-start-column="71" selection-end-line="1075" selection-end-column="71" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -30,7 +33,7 @@
                 <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -39,8 +42,8 @@
       <file leaf-file-name="speakers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speakers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1190" column="123" lean-forward="false" selection-start-line="1190" selection-start-column="62" selection-end-line="1190" selection-end-column="123" />
+            <state relative-caret-position="444">
+              <caret line="1309" column="94" lean-forward="true" selection-start-line="1309" selection-start-column="62" selection-end-line="1309" selection-end-column="94" />
               <folding>
                 <element signature="n#div#21;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -48,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sponsors.html">
+      <file leaf-file-name="organizers.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/organizers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="536" column="38" lean-forward="true" selection-start-line="536" selection-start-column="38" selection-end-line="536" selection-end-column="38" />
+            <state relative-caret-position="221">
+              <caret line="165" column="101" lean-forward="false" selection-start-line="165" selection-start-column="45" selection-end-line="165" selection-end-column="101" />
               <folding />
             </state>
           </provider>
@@ -60,15 +63,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>siva</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/sponsors.html" />
         <option value="$PROJECT_DIR$/speakers.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sponsors.html" />
       </list>
     </option>
   </component>
@@ -135,9 +143,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/speakers" />
       <recent name="$PROJECT_DIR$/images/sponsors" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/speakers" />
       <recent name="$PROJECT_DIR$/images/sponsors" />
     </key>
   </component>
@@ -169,12 +179,12 @@
       <workItem from="1536484574745" duration="193000" />
       <workItem from="1536585548169" duration="148000" />
       <workItem from="1536587958548" duration="1421000" />
-      <workItem from="1536679165624" duration="3330000" />
+      <workItem from="1536679165624" duration="5498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5092000" />
+    <option name="totallyTimeSpent" value="7260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
@@ -225,7 +235,7 @@
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -279,10 +289,36 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="536" column="38" lean-forward="true" selection-start-line="536" selection-start-column="38" selection-end-line="536" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organizers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="165" column="101" lean-forward="false" selection-start-line="165" selection-start-column="45" selection-end-line="165" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speakers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="1309" column="94" lean-forward="true" selection-start-line="1309" selection-start-column="62" selection-end-line="1309" selection-end-column="94" />
+          <folding>
+            <element signature="n#div#21;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="1119" column="55" lean-forward="false" selection-start-line="1119" selection-start-column="55" selection-end-line="1119" selection-end-column="55" />
+        <state relative-caret-position="102">
+          <caret line="1075" column="71" lean-forward="false" selection-start-line="1075" selection-start-column="71" selection-end-line="1075" selection-end-column="71" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -292,26 +328,8 @@
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speakers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1190" column="123" lean-forward="false" selection-start-line="1190" selection-start-column="62" selection-end-line="1190" selection-end-column="123" />
-          <folding>
-            <element signature="n#div#21;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sponsors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="536" column="38" lean-forward="true" selection-start-line="536" selection-start-column="38" selection-end-line="536" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
