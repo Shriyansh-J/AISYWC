@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>certificates</title>
+</head>
+<body>
+
+<table>
+    <tr>
+        <td>1</td>
+        <td>schedule</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>accommodation</td>
+    </tr>
+</table>
+
+<input type="number" min="1" max="350" id="number">
+<input type="submit" value="get certificate" onclick="generate()">
+
+</body>
+
+<script>
+    function generate() {
+        var number = document.getElementById("number").value;
+        window.location.replace("certificates/" + number + ".pdf");
+        return false;
+    }
+</script>
+</html>
