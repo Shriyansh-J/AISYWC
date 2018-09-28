@@ -192,7 +192,7 @@
         </div><!-- Banner item end -->
     </section><!-- Section banner end -->
 
-    <section class="countdown-area">
+    <section hidden class="countdown-area">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -217,7 +217,7 @@
                 </div><!-- Col end -->
             </div><!-- Row end -->
         </div><!-- Container end -->
-    </section><!-- Countdown end -->
+    </sectionhidden><!-- Countdown end -->
 
     <section class="new_countdown_for_mobile" hidden>
         <div class="row">
@@ -1544,7 +1544,7 @@
         $(".countdown").jCounter({
             date: '28 September 2018 09:00:00',
             fallback: function () {
-                console.log("count finished!")
+                console.log("count finished!");
             }
         });
         $(".countdown2").jCounter({
