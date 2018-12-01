@@ -2,221 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a70a1b-9733-445e-9eaa-5c6acc2ebce2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/accommodation.html" afterPath="$PROJECT_DIR$/accommodation.html" />
-      <change beforePath="$PROJECT_DIR$/attractions.html" afterPath="$PROJECT_DIR$/attractions.html" />
-      <change beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change beforePath="$PROJECT_DIR$/certificates.html" afterPath="$PROJECT_DIR$/certificates.html" />
-      <change beforePath="$PROJECT_DIR$/certificates/1.pdf" afterPath="$PROJECT_DIR$/certificates/1.pdf" />
-      <change beforePath="$PROJECT_DIR$/certificates/2.pdf" afterPath="$PROJECT_DIR$/certificates/2.pdf" />
       <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap3.min.css" afterPath="$PROJECT_DIR$/css/bootstrap3.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/colorbox.css" afterPath="$PROJECT_DIR$/css/colorbox.css" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/css/table.css" afterPath="$PROJECT_DIR$/css/table.css" />
-      <change beforePath="$PROJECT_DIR$/documents/Accommodation.pdf" afterPath="$PROJECT_DIR$/documents/Accommodation.pdf" />
-      <change beforePath="$PROJECT_DIR$/documents/HotelDetails.pdf" afterPath="$PROJECT_DIR$/documents/HotelDetails.pdf" />
-      <change beforePath="$PROJECT_DIR$/documents/Mysore_Local_tour.docx" afterPath="$PROJECT_DIR$/documents/Mysore_Local_tour.docx" />
-      <change beforePath="$PROJECT_DIR$/documents/Places.docx" afterPath="$PROJECT_DIR$/documents/Places.docx" />
-      <change beforePath="$PROJECT_DIR$/documents/Schedule.pdf" afterPath="$PROJECT_DIR$/documents/Schedule.pdf" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.woff2" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont3e6e.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfontd41d.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regulard41d.eot" />
       <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change beforePath="$PROJECT_DIR$/images/banner/aisywc.png" afterPath="$PROJECT_DIR$/images/banner/aisywc.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner1.jpg" afterPath="$PROJECT_DIR$/images/banner/banner1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner2.jpg" afterPath="$PROJECT_DIR$/images/banner/banner2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner3.jpg" afterPath="$PROJECT_DIR$/images/banner/banner3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner4.jpg" afterPath="$PROJECT_DIR$/images/banner/banner4.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner5.jpg" afterPath="$PROJECT_DIR$/images/banner/banner5.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner6.jpg" afterPath="$PROJECT_DIR$/images/banner/banner6.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner7.jpg" afterPath="$PROJECT_DIR$/images/banner/banner7.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner8.jpg" afterPath="$PROJECT_DIR$/images/banner/banner8.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/banner9.jpg" afterPath="$PROJECT_DIR$/images/banner/banner9.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/banner/cover1.png" afterPath="$PROJECT_DIR$/images/banner/cover1.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner/cover3.png" afterPath="$PROJECT_DIR$/images/banner/cover3.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner/oldcover.png" afterPath="$PROJECT_DIR$/images/banner/oldcover.png" />
-      <change beforePath="$PROJECT_DIR$/images/banner/oldcover1.png" afterPath="$PROJECT_DIR$/images/banner/oldcover1.png" />
-      <change beforePath="$PROJECT_DIR$/images/blog/Branding_competition.jpg" afterPath="$PROJECT_DIR$/images/blog/Branding_competition.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/blog/quiz.mp4" afterPath="$PROJECT_DIR$/images/blog/quiz.mp4" />
-      <change beforePath="$PROJECT_DIR$/images/controls.png" afterPath="$PROJECT_DIR$/images/controls.png" />
-      <change beforePath="$PROJECT_DIR$/images/crossword.png" afterPath="$PROJECT_DIR$/images/crossword.png" />
-      <change beforePath="$PROJECT_DIR$/images/footer-pattern.png" afterPath="$PROJECT_DIR$/images/footer-pattern.png" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery1.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery1.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery10.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery10.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery11.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery11.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery12.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery12.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery13.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery13.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery14.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery14.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery15.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery15.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery16.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery16.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery17.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery17.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery18.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery18.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery2.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery2.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery3.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery3.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery4.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery4.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery5.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery5.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery6.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery6.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery7.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery7.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery8.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery8.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery9.jpeg" afterPath="$PROJECT_DIR$/images/gallery/gallery9.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/icon-image/tab-img1.png" afterPath="$PROJECT_DIR$/images/icon-image/tab-img1.png" />
-      <change beforePath="$PROJECT_DIR$/images/icon-image/tab-img2.png" afterPath="$PROJECT_DIR$/images/icon-image/tab-img2.png" />
-      <change beforePath="$PROJECT_DIR$/images/icon-image/tab-img3.png" afterPath="$PROJECT_DIR$/images/icon-image/tab-img3.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/AISYWC.jpeg" afterPath="$PROJECT_DIR$/images/logos/AISYWC.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/logos/AISYWC.png" afterPath="$PROJECT_DIR$/images/logos/AISYWC.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEE.png" afterPath="$PROJECT_DIR$/images/logos/IEEE.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEBangalore.png" afterPath="$PROJECT_DIR$/images/logos/IEEEBangalore.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEIC.png" afterPath="$PROJECT_DIR$/images/logos/IEEEIC.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEWIE.png" afterPath="$PROJECT_DIR$/images/logos/IEEEWIE.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEWIEwhite.png" afterPath="$PROJECT_DIR$/images/logos/IEEEWIEwhite.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEYP.png" afterPath="$PROJECT_DIR$/images/logos/IEEEYP.png" />
-      <change beforePath="$PROJECT_DIR$/images/logos/IEEEYPwhite.png" afterPath="$PROJECT_DIR$/images/logos/IEEEYPwhite.png" />
-      <change beforePath="$PROJECT_DIR$/images/main-banner/banner-bg.jpg" afterPath="$PROJECT_DIR$/images/main-banner/banner-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/main-banner/banner-bottom-img.png" afterPath="$PROJECT_DIR$/images/main-banner/banner-bottom-img.png" />
-      <change beforePath="$PROJECT_DIR$/images/main-banner/main-banner.jpg" afterPath="$PROJECT_DIR$/images/main-banner/main-banner.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/main-banner/mysore-palace-1000-500.jpg" afterPath="$PROJECT_DIR$/images/main-banner/mysore-palace-1000-500.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/newsletter-icon.png" afterPath="$PROJECT_DIR$/images/newsletter-icon.png" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/AbhishekAppaji.jpg" afterPath="$PROJECT_DIR$/images/organisers/AbhishekAppaji.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Andan.jpg" afterPath="$PROJECT_DIR$/images/organisers/Andan.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Ankita.jpg" afterPath="$PROJECT_DIR$/images/organisers/Ankita.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Annapurna.jpg" afterPath="$PROJECT_DIR$/images/organisers/Annapurna.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/DeepaShenoy.jpg" afterPath="$PROJECT_DIR$/images/organisers/DeepaShenoy.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/DeepakMathur.jpg" afterPath="$PROJECT_DIR$/images/organisers/DeepakMathur.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Divya.jpg" afterPath="$PROJECT_DIR$/images/organisers/Divya.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Mallikarjun.jpg" afterPath="$PROJECT_DIR$/images/organisers/Mallikarjun.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/PunithMishra.jpg" afterPath="$PROJECT_DIR$/images/organisers/PunithMishra.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/RVSReddy.jpg" afterPath="$PROJECT_DIR$/images/organisers/RVSReddy.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/SK.jpg" afterPath="$PROJECT_DIR$/images/organisers/SK.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/SNSingh.jpg" afterPath="$PROJECT_DIR$/images/organisers/SNSingh.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/Sadhana.jpg" afterPath="$PROJECT_DIR$/images/organisers/Sadhana.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/ShrikantTangade.jpg" afterPath="$PROJECT_DIR$/images/organisers/ShrikantTangade.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/SivajiChakravorti.jpg" afterPath="$PROJECT_DIR$/images/organisers/SivajiChakravorti.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/organisers/bindu.jpg" afterPath="$PROJECT_DIR$/images/organisers/bindu.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/about-img1.jpg" afterPath="$PROJECT_DIR$/images/pages/about-img1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/about-img2.jpg" afterPath="$PROJECT_DIR$/images/pages/about-img2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/about-img3.jpg" afterPath="$PROJECT_DIR$/images/pages/about-img3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/about-img4.jpg" afterPath="$PROJECT_DIR$/images/pages/about-img4.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img1.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img2.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img2old.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img2old.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img3.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img3old.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img3old.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img4.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img4.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img5.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img5.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pages/venu-img6.jpg" afterPath="$PROJECT_DIR$/images/pages/venu-img6.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/parallax1.jpg" afterPath="$PROJECT_DIR$/images/parallax1.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/parallax2.jpg" afterPath="$PROJECT_DIR$/images/parallax2.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/parallax3.jpg" afterPath="$PROJECT_DIR$/images/parallax3.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/parallax4.jpg" afterPath="$PROJECT_DIR$/images/parallax4.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/KRS.jpg" afterPath="$PROJECT_DIR$/images/places/KRS.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/brindavan.jpg" afterPath="$PROJECT_DIR$/images/places/brindavan.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/cathedral.jpg" afterPath="$PROJECT_DIR$/images/places/cathedral.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/hill.jpg" afterPath="$PROJECT_DIR$/images/places/hill.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/palace.jpg" afterPath="$PROJECT_DIR$/images/places/palace.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/railway.jpg" afterPath="$PROJECT_DIR$/images/places/railway.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/srirangapattana.jpg" afterPath="$PROJECT_DIR$/images/places/srirangapattana.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/places/wax.jpg" afterPath="$PROJECT_DIR$/images/places/wax.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/preload.gif" afterPath="$PROJECT_DIR$/images/preload.gif" />
-      <change beforePath="$PROJECT_DIR$/images/slider/Jagan_Mohan_Palace.jpg" afterPath="$PROJECT_DIR$/images/slider/Jagan_Mohan_Palace.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/slider/Mysore_Palace.jpg" afterPath="$PROJECT_DIR$/images/slider/Mysore_Palace.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/slider/Oriental_library.jpg" afterPath="$PROJECT_DIR$/images/slider/Oriental_library.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/slider/Zoo.jpg" afterPath="$PROJECT_DIR$/images/slider/Zoo.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/HMysore.jpg" afterPath="$PROJECT_DIR$/images/speakers/HMysore.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/N_Kumar.jpg" afterPath="$PROJECT_DIR$/images/speakers/N_Kumar.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/Nihal.jpg" afterPath="$PROJECT_DIR$/images/speakers/Nihal.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/SNSingh.jpg" afterPath="$PROJECT_DIR$/images/speakers/SNSingh.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/SivajiChakravorti.jpg" afterPath="$PROJECT_DIR$/images/speakers/SivajiChakravorti.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/YVS.jpg" afterPath="$PROJECT_DIR$/images/speakers/YVS.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/abhinav.jpeg" afterPath="$PROJECT_DIR$/images/speakers/abhinav.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/amit.jpg" afterPath="$PROJECT_DIR$/images/speakers/amit.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/annadurai.jpg" afterPath="$PROJECT_DIR$/images/speakers/annadurai.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/balakrishna.jpg" afterPath="$PROJECT_DIR$/images/speakers/balakrishna.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/d das.jpg" afterPath="$PROJECT_DIR$/images/speakers/d das.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/daniel.jpg" afterPath="$PROJECT_DIR$/images/speakers/daniel.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/deepak.jpg" afterPath="$PROJECT_DIR$/images/speakers/deepak.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/dm.jpeg" afterPath="$PROJECT_DIR$/images/speakers/dm.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/gs.jpeg" afterPath="$PROJECT_DIR$/images/speakers/gs.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/jagadeesh.jpg" afterPath="$PROJECT_DIR$/images/speakers/jagadeesh.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/kristen.jpg" afterPath="$PROJECT_DIR$/images/speakers/kristen.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/kvshari.jpg" afterPath="$PROJECT_DIR$/images/speakers/kvshari.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/pm.jpg" afterPath="$PROJECT_DIR$/images/speakers/pm.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/preeti_bajaj.jpg" afterPath="$PROJECT_DIR$/images/speakers/preeti_bajaj.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/ravi_kiran.jpg" afterPath="$PROJECT_DIR$/images/speakers/ravi_kiran.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/rk.jpeg" afterPath="$PROJECT_DIR$/images/speakers/rk.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/rohaan.jpg" afterPath="$PROJECT_DIR$/images/speakers/rohaan.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/rohit.jpg" afterPath="$PROJECT_DIR$/images/speakers/rohit.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/sankalp.jpg" afterPath="$PROJECT_DIR$/images/speakers/sankalp.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/shriharsha.jpg" afterPath="$PROJECT_DIR$/images/speakers/shriharsha.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/sivaji.jpg" afterPath="$PROJECT_DIR$/images/speakers/sivaji.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/sk.jpeg" afterPath="$PROJECT_DIR$/images/speakers/sk.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/speakers/tathagat verma.jpg" afterPath="$PROJECT_DIR$/images/speakers/tathagat verma.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Bangalore.png" afterPath="$PROJECT_DIR$/images/sponsors/Bangalore.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Entuple.png" afterPath="$PROJECT_DIR$/images/sponsors/Entuple.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/GRSS.jpeg" afterPath="$PROJECT_DIR$/images/sponsors/GRSS.jpeg" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Gujarat.png" afterPath="$PROJECT_DIR$/images/sponsors/Gujarat.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/HAC.jpg" afterPath="$PROJECT_DIR$/images/sponsors/HAC.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Hyderabad.png" afterPath="$PROJECT_DIR$/images/sponsors/Hyderabad.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IC.png" afterPath="$PROJECT_DIR$/images/sponsors/IC.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEComSoc.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEComSoc.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEKerala.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEKerala.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEPES.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEPES.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEPune.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEPune.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEUP.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEUP.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEWIE.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEWIE.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/IEEEYP.png" afterPath="$PROJECT_DIR$/images/sponsors/IEEEYP.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Intel.png" afterPath="$PROJECT_DIR$/images/sponsors/Intel.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Kerala.png" afterPath="$PROJECT_DIR$/images/sponsors/Kerala.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Kolkata.png" afterPath="$PROJECT_DIR$/images/sponsors/Kolkata.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Madras.png" afterPath="$PROJECT_DIR$/images/sponsors/Madras.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/Pune.png" afterPath="$PROJECT_DIR$/images/sponsors/Pune.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/UP.png" afterPath="$PROJECT_DIR$/images/sponsors/UP.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/YP-Blr.png" afterPath="$PROJECT_DIR$/images/sponsors/YP-Blr.png" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/ieeetems.jpg" afterPath="$PROJECT_DIR$/images/sponsors/ieeetems.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/sponsors/mtts.jpeg" afterPath="$PROJECT_DIR$/images/sponsors/mtts.jpeg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change beforePath="$PROJECT_DIR$/js/gmap3.js" afterPath="$PROJECT_DIR$/js/gmap3.js" />
-      <change beforePath="$PROJECT_DIR$/js/html5shiv.js" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.colorbox.js" afterPath="$PROJECT_DIR$/js/jquery.colorbox.js" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.jCounter.js" afterPath="$PROJECT_DIR$/js/jquery.jCounter.js" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/js/owl.autoplay.js" afterPath="$PROJECT_DIR$/js/owl.autoplay.js" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.js" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
-      <change beforePath="$PROJECT_DIR$/js/respond.min.js" afterPath="$PROJECT_DIR$/js/respond.min.js" />
-      <change beforePath="$PROJECT_DIR$/js/waypoints.min.js" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
-      <change beforePath="$PROJECT_DIR$/mysore.html" afterPath="$PROJECT_DIR$/mysore.html" />
-      <change beforePath="$PROJECT_DIR$/organizers.html" afterPath="$PROJECT_DIR$/organizers.html" />
-      <change beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-      <change beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" afterPath="$PROJECT_DIR$/speakers.html" />
-      <change beforePath="$PROJECT_DIR$/special-events.html" afterPath="$PROJECT_DIR$/special-events.html" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
-      <change beforePath="$PROJECT_DIR$/tour.html" afterPath="$PROJECT_DIR$/tour.html" />
-      <change beforePath="$PROJECT_DIR$/travel.html" afterPath="$PROJECT_DIR$/travel.html" />
-      <change beforePath="$PROJECT_DIR$/venue.html" afterPath="$PROJECT_DIR$/venue.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -230,17 +18,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5616">
+            <state relative-caret-position="0">
               <caret line="1271" column="18" lean-forward="false" selection-start-line="1267" selection-start-column="12" selection-end-line="1271" selection-end-column="18" />
               <folding>
                 <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -262,7 +44,7 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="4356">
               <caret line="242" column="33" lean-forward="false" selection-start-line="242" selection-start-column="33" selection-end-line="242" selection-end-column="33" />
               <folding />
             </state>
@@ -272,8 +54,18 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3295">
-              <caret line="246" column="54" lean-forward="false" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
+            <state relative-caret-position="183">
+              <caret line="141" column="126" lean-forward="false" selection-start-line="141" selection-start-column="126" selection-end-line="141" selection-end-column="126" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="141" column="56" lean-forward="false" selection-start-line="141" selection-start-column="56" selection-end-line="141" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -284,7 +76,7 @@
       <file leaf-file-name="owl.carousel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="4536">
               <caret line="263" column="21" lean-forward="false" selection-start-line="263" selection-start-column="21" selection-end-line="263" selection-end-column="21" />
               <folding />
             </state>
@@ -306,6 +98,7 @@
       <find>accomo</find>
       <find>queries</find>
       <find>jpg</find>
+      <find>banner</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -320,7 +113,6 @@
         <option value="$PROJECT_DIR$/accomodation.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/mysore.html" />
         <option value="$PROJECT_DIR$/organizers.html" />
         <option value="$PROJECT_DIR$/travel.html" />
@@ -335,6 +127,7 @@
         <option value="$PROJECT_DIR$/sponsors.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
@@ -377,30 +170,19 @@
               <item name="AISYWC" type="b2602c69:ProjectViewProjectNode" />
               <item name="AISYWC" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="AISYWC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AISYWC" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="AISYWC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AISYWC" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="gallery" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Reverse-Shell" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="SearchEverywhereHistoryKey" value="plug&#9;ACTION&#9;WelcomeScreen.Plugins&#10;plu&#9;null&#9;null" />
   </component>
@@ -463,26 +245,29 @@
       <workItem from="1539360500363" duration="1841000" />
       <workItem from="1540827744047" duration="11256000" />
       <workItem from="1543233490715" duration="303000" />
-      <workItem from="1543233910527" duration="24000" />
+      <workItem from="1543233910527" duration="216000" />
+      <workItem from="1543234147118" duration="3457000" />
+      <workItem from="1543480327912" duration="399000" />
+      <workItem from="1543682947819" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52594000" />
+    <option name="totallyTimeSpent" value="56995000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18216756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19840637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.50278884" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.49721116" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -532,13 +317,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/speakers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="93" column="78" lean-forward="false" selection-start-line="93" selection-start-column="78" selection-end-line="93" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sponsors.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1674">
@@ -595,12 +373,6 @@
           <folding>
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -688,12 +460,6 @@
           <folding>
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -732,12 +498,6 @@
           <folding>
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -802,13 +562,6 @@
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="93" column="78" lean-forward="false" selection-start-line="93" selection-start-column="78" selection-end-line="93" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
           <caret line="93" column="78" lean-forward="false" selection-start-line="93" selection-start-column="78" selection-end-line="93" selection-end-column="78" />
         </state>
       </provider>
@@ -908,17 +661,11 @@
     <entry file="file://$PROJECT_DIR$/images/gallery/gallery3.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5616">
+        <state relative-caret-position="0">
           <caret line="1271" column="18" lean-forward="false" selection-start-line="1267" selection-start-column="12" selection-end-line="1271" selection-end-column="18" />
           <folding>
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -936,29 +683,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="263" column="21" lean-forward="false" selection-start-line="263" selection-start-column="21" selection-end-line="263" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="4356">
           <caret line="242" column="33" lean-forward="false" selection-start-line="242" selection-start-column="33" selection-end-line="242" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3295">
-          <caret line="246" column="54" lean-forward="false" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
+        <state relative-caret-position="4536">
+          <caret line="263" column="21" lean-forward="false" selection-start-line="263" selection-start-column="21" selection-end-line="263" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gallery/gallery1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="141" column="56" lean-forward="false" selection-start-line="141" selection-start-column="56" selection-end-line="141" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="141" column="126" lean-forward="false" selection-start-line="141" selection-start-column="126" selection-end-line="141" selection-end-column="126" />
+          <folding />
         </state>
       </provider>
     </entry>
